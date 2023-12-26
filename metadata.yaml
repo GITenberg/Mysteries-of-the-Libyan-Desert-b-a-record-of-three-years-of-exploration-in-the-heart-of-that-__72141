@@ -2,6 +2,9 @@ _repo: Mysteries-of-the-Libyan-Desert-b-a-record-of-three-years-of-exploration-i
 _version: 0.1.0
 alternative_title: 'Mysteries of the Libyan Desert :  a record of three years of exploration
   in the heart of that vast and waterless region'
+covers:
+- cover_type: archival
+  image_path: 72141-h/images/cover.jpg
 creator:
   author:
     agent_name: King, W. J. Harding
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '56559'
     url: http://www.gutenberg.org/2009/agents/56559
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72141#Mysteries-of-the-Libyan-Desert-b-a-record-of-three-years-of-exploration-in-the-heart-of-that-_
 gutenberg_issued: '2023-11-16'
 identifiers:
   gutenberg: '72141'
